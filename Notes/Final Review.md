@@ -35,7 +35,7 @@
 
 总之内容不错，但是课程的安排应该不算很有趣，让我想起MIT 2010年6.042中Dr. Marten van Dijk上的几节课。
 
-<img src="./U.assets/Screen Shot 2021-07-07 at 11.07.31.png" alt="Screen Shot 2021-07-07 at 11.07.31"  />
+<img src="./image.assets/Screen Shot 2021-07-07 at 11.07.31.png" alt="Screen Shot 2021-07-07 at 11.07.31"  />
 
 ### Constructive Concepts
 
@@ -50,7 +50,7 @@
 
 # <u>Unit1. Representing and Manipulating Information</u>
 
-<img src="./U.assets/Screen Shot 2021-07-07 at 14.49.20.png" alt="Screen Shot 2021-07-07 at 14.49.20" style="zoom: 33%;" />
+<img src="./image.assets/Screen Shot 2021-07-07 at 14.49.20.png" alt="Screen Shot 2021-07-07 at 14.49.20" style="zoom: 33%;" />
 
 - Bit-level manipulations
 - Integers
@@ -85,7 +85,7 @@
 - Operation
 
 	- Data Assembly-code Suffix
-		-  <img src="./U.assets/Screen Shot 2021-07-13 at 19.19.50.png" alt="Screen Shot 2021-07-13 at 19.19.50" style="zoom: 25%;" />
+		-  ​	<img src="./image.assets/Screen Shot 2021-07-13 at 19.19.50.png" alt="Screen Shot 2021-07-13 at 19.19.50" style="zoom: 25%;" />
 	- `move`
 	- `lea` (Load Effective Address)
 	- `jump`
@@ -168,7 +168,7 @@
 		- Highly sophisticated, expensive replacement algorithms
 		- Write-back rather than write-through
 - Address translation
-	-  <img src="./U.assets/image-20210723172225307.png" alt="image-20210723172225307" style="zoom: 33%;" />
+	-  ​	<img src="./image.assets/image-20210723172225307.png" alt="image-20210723172225307" style="zoom: 33%;" />
 - Memory Mapping
 	- Save head-on operation
 	- Private Copy-on-write(COW)
@@ -212,7 +212,7 @@
 		- A socket is an endpoint of a connection `IPaddress:port` 
 		- A port is a 16-bit integer that identifies a process
 - Sockets Interface
-	-  <img src="./U.assets/image-20210724181932947.png" alt="image-20210724181932947" style="zoom: 33%;" />
+	-  ​	<img src="./image.assets/image-20210724181932947.png" alt="image-20210724181932947" style="zoom: 33%;" />
 - Web Server Basics
 	- HTTP (HyperText Transfer Protocol)
 	- Static and Dynamic Content

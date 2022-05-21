@@ -2,10 +2,10 @@
 
 ## Introduction to Computer Systems
 
-This repository shares the learning process of the course 15-213 of fall 2015 of CMU, which is divided into the following two parts:
+This repository shares the learning process of the course 15-213 with online materials from CMU, which is divided into the following two parts:
 
-1. Lectures and recitation notes, including a summary of the final review
-2. Labs‘ results
+1. Lectures, recitations, and labs notes, including a final review
+2. Labs‘ solutions
 
 07.27.2021
 
